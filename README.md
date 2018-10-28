@@ -14,6 +14,7 @@ Sugar ORM was built in contrast to other ORM's to have:
 - Automatic modification of tables when changing fields.
 - Automatic creation of tables during app installation.
 
+
 ## Installing
 
 In order to install Sugar:
